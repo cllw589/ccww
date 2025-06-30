@@ -33,7 +33,7 @@ col3 = array[:, 2]
 print("第3列元素:", col3)
 
 # 任务3：提取子数组（第1、2行和第2、3列）
-sub_array = array[0:2, 1:3]
+sub_array = array[1:4, 1:3]
 print("子数组:\n", sub_array)
 
 # 任务4：将大于10的元素替换为0
